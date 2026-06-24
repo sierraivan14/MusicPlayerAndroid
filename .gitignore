@@ -1,0 +1,30 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Archivos de firma (si llegas a generar un APK firmado)
+*.jks
+*.keystore
+
+# Archivos de compilación por módulo
+app/build/
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Archivos de Gradle (NO ignores gradlew, gradlew.bat, gradle-wrapper.jar — esos SÍ se deben subir)
+.gradle/
