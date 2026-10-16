@@ -1,23 +1,32 @@
 # Music Player Android
 
-An Android music player app with a cassette tape-inspired interface, built in Android Studio.
+A native Android music player with a cassette-inspired interface, developed in Java with Android Studio.
 
-## Description
+## About the project
 
-This project is a migration of a Java desktop application (MVC architecture, Swing UI,
-audio playback with javax.sound.sampled, and persistence with Apache Derby) into a native
-Android application.
+Music Player Android is a mobile version of a music player originally developed as a Java desktop application. The project explores how to adapt the app's playback logic and music library to the Android environment.
 
-## Tech Stack
+This was a collaborative project developed with two teammates.
 
-- Android Studio (Ladybug 2025.1.1)
+## Features
+
+- Cassette-inspired interface
+- Music playback on Android
+- Music library adapted for the mobile environment
+
+## Technologies
+
 - Java
 - Android SDK
+- Android Studio
 
-## Project Status
+## Project status
 
-In development.
+Completed.
 
-## Author
+## Run the project
 
-Ivan Sierra
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/sierraivan14/MusicPlayerAndroid.git
